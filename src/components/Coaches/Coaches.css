@@ -1,0 +1,17 @@
+.CoachesThumbnail {
+	display: inline-block;
+	width: 90%;
+	float: none;
+	margin: auto;
+	text-align: center;
+	background-color: transparent;
+}
+
+img.CoachesImage {
+	width: 50%;
+	height: 20%;
+}
+
+.CoachAttributes {
+	text-align: left;
+}

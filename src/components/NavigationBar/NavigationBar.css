@@ -1,0 +1,40 @@
+@media (min-width: 768px){
+    .CenteredNav{
+        float:none;
+        margin: 0 auto;
+        display: table;
+        table-layout: fixed;
+    }
+}
+
+@media (max-width: 768px){
+	.Logo{		
+		margin-left: 15px;
+	}
+}
+
+.Navbar {
+	background: #FFEFBA;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #FFFFFF, #FFEFBA);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #FFFFFF, #FFEFBA); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	margin-bottom: 0px;
+	border-bottom-color: #ffca89;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+	background-color: #ffca89;
+}
+
+.navbar-toggle {
+	margin-top: -45px;
+}
+
+.Logo{	
+	margin-top: 0px;
+	padding: 0px;
+}
+
+img.Logo{
+	width:50px;
+	height:50px;
+}

@@ -1,0 +1,31 @@
+.TheJumbotron {
+	position: relative;
+	background-image: url("../../assets/images/LegendRank.png");
+	background-position: center;
+	margin: 0px;
+	height: 500px;
+}
+
+.HomePageHeader {
+	position: absolute;
+	text-align: center;
+	width: 90%;
+	bottom: 20px;	
+	color: #FFFFFF;
+}
+
+.BecomeLegendIntro {
+	font-size: 2.1rem;
+}
+
+.BecomeLegendIntro > ul > li {
+	margin-top: 20px;
+	text-align: left;
+}
+
+img.LegendCardBack {
+	width: 70%;
+	height: 70%;
+	margin: auto;
+}
+

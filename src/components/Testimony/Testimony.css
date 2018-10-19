@@ -1,0 +1,15 @@
+.Testimony {
+	display: inline-block;
+	width: 90%;
+	background-color: #FAF5DC;
+}
+
+.Testimony > .caption > .col-sm-8 > p {	
+	text-align: left;
+}
+
+img.TestimonyMugShot {
+	width: 100px;
+	height: 70px;
+	margin-top: 20px;
+}

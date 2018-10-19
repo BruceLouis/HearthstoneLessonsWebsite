@@ -1,0 +1,21 @@
+.panel {
+	margin-bottom: 0px;
+}
+
+.Question {
+	font-size: 1.5em;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background: #FCF7F2;
+	cursor: pointer;
+}
+
+.Answer {
+	font-size: 1.25em;
+	background: #FFD9B3;
+}
+
+.glyphicon-chevron-down {
+	float: right;
+	padding-right: 10px;
+}
